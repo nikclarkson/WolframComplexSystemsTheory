@@ -1,0 +1,6 @@
+
+http://pmav.eu/stuff/javascript-game-of-life-v3.1.1/
+.nb CA
+.nb CA Intial conditions
+.nb CA Computation
+Golly Wireworld Primes
